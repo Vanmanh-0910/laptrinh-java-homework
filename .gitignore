@@ -1,0 +1,12 @@
+# Compiled class file / Build output
+out/
+bin/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Temporary / OS
+.DS_Store
+Thumbs.db
